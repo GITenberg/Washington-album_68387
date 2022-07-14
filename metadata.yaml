@@ -1,0 +1,32 @@
+_repo: Washington-album_68387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68387'
+  lccn: 07001991
+language: en
+pgterms:marc905: 20140427120823anonymous
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Juliet Sutherland, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :J. F. Jarvis,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Washington (D.C.) -- Pictorial works'
+- GITenberg
+title: Washington album
+url: http://www.gutenberg.org/ebooks/68387
